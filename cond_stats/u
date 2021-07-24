@@ -1,0 +1,3 @@
+      else:
+            details.append(z)
+

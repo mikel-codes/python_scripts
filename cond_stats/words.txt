@@ -1,0 +1,3 @@
+Note we have to rewind back to the beginning of the file each time through because the iterator
+exhausts it. But wow, a non-obfuscated one-liner now does something that used to take many lines of
+code to 
