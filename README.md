@@ -8,4 +8,5 @@ such as:
 - Web and Scraping
 - Meta Programming 
 - Threading 
+- Data Structures
 - etc
